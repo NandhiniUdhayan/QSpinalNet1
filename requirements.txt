@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+segmentation-models-pytorch
+Pillow
+numpy
+opencv-python
+tqdm
+matplotlib
+scikit-image
+scipy
